@@ -1,7 +1,7 @@
 {
-    "name": "Telegram",
+    "name": "SAFE DEPLOY",
     "description": "You know what it does...",
-    "logo": "",
+    "logo": "https://te.legra.ph/file/4da747977ac81a9cad96e.jpg",
     "keywords": [
         "Telethon",
         "telegram",
@@ -47,12 +47,17 @@
         "HEROKU_API": {
             "description": "Heroku API token. Needed if deploying on heroku ONLY.",
             "value": "",
-            "required": false
+            "required": true
         },
         "HEROKU_APP_NAME": {
             "description": "Name of your heroku app, given in the first blank on this page. To be added if deploying to heroku ONLY.",
             "value": "",
-            "required": false
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "BOT TOKEN YOU HET IN @BOTFATHER",
+            "value": "",
+            "required": true
         }
     },
     "formation": {
