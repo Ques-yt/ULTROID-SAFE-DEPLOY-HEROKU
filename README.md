@@ -1,4 +1,4 @@
-## MADED BY [![@GWG_YT](https://github.com/GwGYT)
+## MADED BY [@GWG_YT](https://github.com/GwGYT)
 
 
 
